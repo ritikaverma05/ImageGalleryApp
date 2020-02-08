@@ -1,0 +1,7 @@
+${PODS_ROOT}/Target Support Files/Pods-ImageGallery/Pods-ImageGallery-frameworks.sh
+${BUILT_PRODUCTS_DIR}/Alamofire/Alamofire.framework
+${BUILT_PRODUCTS_DIR}/HanekeSwift/Haneke.framework
+${BUILT_PRODUCTS_DIR}/JDStatusBarNotification/JDStatusBarNotification.framework
+${BUILT_PRODUCTS_DIR}/ReachabilitySwift/ReachabilitySwift.framework
+${BUILT_PRODUCTS_DIR}/SDWebImage/SDWebImage.framework
+${BUILT_PRODUCTS_DIR}/SwiftyJSON/SwiftyJSON.framework

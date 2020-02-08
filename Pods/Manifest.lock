@@ -1,0 +1,46 @@
+PODS:
+  - Alamofire (5.0.0-rc.3)
+  - HanekeSwift (1.2)
+  - JDStatusBarNotification (1.6.1)
+  - ReachabilitySwift (3)
+  - SDWebImage (5.5.2):
+    - SDWebImage/Core (= 5.5.2)
+  - SDWebImage/Core (5.5.2)
+  - SwiftyJSON (4.3.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 5.0.0-rc.3)
+  - HanekeSwift (from `https://github.com/Haneke/HanekeSwift`)
+  - JDStatusBarNotification
+  - ReachabilitySwift (~> 3)
+  - SDWebImage (~> 5.0)
+  - SwiftyJSON (~> 4.0)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - JDStatusBarNotification
+    - ReachabilitySwift
+    - SDWebImage
+    - SwiftyJSON
+
+EXTERNAL SOURCES:
+  HanekeSwift:
+    :git: https://github.com/Haneke/HanekeSwift
+
+CHECKOUT OPTIONS:
+  HanekeSwift:
+    :commit: 41c1efc82a9b7cefa4381f79669ab1e32b867b16
+    :git: https://github.com/Haneke/HanekeSwift
+
+SPEC CHECKSUMS:
+  Alamofire: ca8c0de6906873be89d6deec5c8de279e00bf872
+  HanekeSwift: 0ee43c4cfe871ef8cc7382bda8729b6374c41748
+  JDStatusBarNotification: 6052ca9a51ee0bb058f8dc09cf1d63554ef0f743
+  ReachabilitySwift: f5b9bb30a0777fac8f09ce8b067e32faeb29bb64
+  SDWebImage: 4d5c027c935438f341ed33dbac53ff9f479922ca
+  SwiftyJSON: 6faa0040f8b59dead0ee07436cbf76b73c08fd08
+
+PODFILE CHECKSUM: af11b60a3fd15542facb32bcc01649e1233a9deb
+
+COCOAPODS: 1.8.4
